@@ -1,0 +1,28 @@
+#
+# This source file is part of the Stanford Prisma Application based on the Stanford Spezi Template Application project
+#
+# SPDX-FileCopyrightText: 2023 Stanford University
+#
+# SPDX-License-Identifier: MIT
+#
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Schmiedmayer"
+  given-names: "Paul"
+  orcid: "https://orcid.org/0000-0002-8607-9148"
+- family-names: "Jörke"
+  given-names: "Matthew"
+  orcid: "https://orcid.org/0000-0003-2972-462X"
+- family-names: "Jimenez"
+  given-names: "Bryant"
+- family-names: "Hur"
+  given-names: "Evelyn"
+- family-names: "Tran"
+  given-names: "Caroline"
+- family-names: "Song"
+  given-names: "Evelyn"
+- family-names: "Naik"
+  given-names: "Dhruv"
+title: "Prisma"

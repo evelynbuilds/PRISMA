@@ -1,0 +1,840 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "%@" : {
+
+    },
+    "About" : {
+
+    },
+    "ACCOUNT_NEXT" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next"
+          }
+        }
+      }
+    },
+    "ACCOUNT_REQUIRED_ITEMS" : {
+      "extractionState" : "automatic",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email, Name, and Date of Birth are required."
+          }
+        }
+      }
+    },
+    "ACCOUNT_SETUP_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please create an account or sign in below. "
+          }
+        }
+      }
+    },
+    "ACCOUNT_SIGNED_IN_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You are successfully signed in with the account shown below. "
+          }
+        }
+      }
+    },
+    "ACCOUNT_TITLE" : {
+      "comment" : "MARK: Account",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Account"
+          }
+        }
+      }
+    },
+    "Active Energy Burned" : {
+
+    },
+    "ACTIVE_ENERGY_BURNED" : {
+      "extractionState" : "manual"
+    },
+    "ACTIVE_ENERGY_BURNED_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This is an estimate of energy burned over and above your Resting Energy use (see Resting Energy). Active energy includes activity such as walking slowly, pushing your wheelchair and household chores, as well as exercise such as biking and dancing. Your total energy use is the sum of your Resting Energy and Active Energy. "
+          }
+        }
+      }
+    },
+    "AFTERNOON_SURVEY_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please fill out the Afternoon Survey every day between 11AM-2PM."
+          }
+        }
+      }
+    },
+    "AFTERNOON_SURVEY_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afternoon Survey"
+          }
+        }
+      }
+    },
+    "Allow Data Upload" : {
+
+    },
+    "APPLE_EXERCISE_TIME_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every full minute of movement equal to or exceeding the intensity of a brisk walk for you counts towards your Exercise minutes. "
+          }
+        }
+      }
+    },
+    "APPLE_MOVE_TIME_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A Move minute is measured of how active you are each day. Earning a Move minute requires motion that is more than sedentary activities such as sitting and playing a game or doing arts and crafts. Move minutes are designed for users under the age of 13. They are measured by Apple Watch and are automatically added to Health. "
+          }
+        }
+      }
+    },
+    "APPLE_STAND_TIME_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stand minutes are the minutes in each hour that you're standing and moving. Looking at your Stand minutes over time can help you understand how active or sedentary you are. Apple Watch automatically tracks and logs Stand minutes in Health. Earning at least one Stand Minute each hour also earned you the hour in your Stand ring. "
+          }
+        }
+      }
+    },
+    "BASAL_ENERGY_BURNED_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This is an estimate of the energy your body uses each day while minimally active. Additional physical activity requires more energy over and above Resting Energy (see Active Energy)."
+          }
+        }
+      }
+    },
+    "Body Temperature" : {
+
+    },
+    "BODY_TEMPERATURE_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Normal body temperature varies throughout the day—it's lower in the morning and higher in the late afternoon and evening. The average normal body temperature is 98.6°F (37°C). What's normal for you may be a degree or more higher or lower than this. Body temperature can be affected by many factors, including heavy exercise, outdoor heat and humidity, and menstrual cycles. Of course, your body temperature may also rise if you have an illness. This is known as a fever. "
+          }
+        }
+      }
+    },
+    "Chat" : {
+
+    },
+    "CLOSE" : {
+      "comment" : "MARK: General",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        }
+      }
+    },
+    "Completed at %@" : {
+
+    },
+    "Completed notification" : {
+
+    },
+    "CONTACTS_NAVIGATION_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contacts"
+          }
+        }
+      }
+    },
+    "CONTACTS_TAB_TITLE" : {
+      "comment" : "MARK: - Contacts",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contacts"
+          }
+        }
+      }
+    },
+    "CONTRIBUTIONS_LIST_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The following list contains all Swift Package dependencies of the SpeziPrisma."
+          }
+        }
+      }
+    },
+    "CONTRIBUTIONS_LIST_FOOTER" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please refer to the individual repository links for packages without license labels."
+          }
+        }
+      }
+    },
+    "CONTRIBUTIONS_LIST_HEADER" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Packages"
+          }
+        }
+      }
+    },
+    "Currently there are no surveys available, you will be notified about upcoming surveys." : {
+
+    },
+    "Disabled" : {
+
+    },
+    "Distance Walking Running" : {
+
+    },
+    "DISTANCE_WALKING_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A quantity sample type that measures the distance the user has moved by walking or running."
+          }
+        }
+      }
+    },
+    "EMMA_BRUNSKILL_BIO" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emma Brunskill is an associate tenured professor in the Computer Science Department at Stanford University. Prof. Brunskill's goal is to create AI systems that learn from few samples to robustly make good decisions, motivated by our applications to healthcare and education. Their lab is part of the Stanford AI Lab, the Stanford Statistical ML group, and AI Safety @Stanford. Prof. Brunskill was previously an assistant professor at Carnegie Mellon University, whose work has been honored by early faculty career awards (National Science Foundation, Office of Naval Research, Microsoft Research (1 of 7 worldwide) ). Their work, together with their amazing lab members, has received several best research paper nominations (CHI, EDMx3) and awards (UAI, RLDM, ITS). They are privileged to serve on the International Machine Learning Society (which coordinates ICML) Board, the Khan Academy Research Advisory Board, the Stanford Faculty Women's Forum Steering Committee, and previously served on the Women in Machine Learning (WIML) board."
+          }
+        }
+      }
+    },
+    "Enabled" : {
+
+    },
+    "End date" : {
+
+    },
+    "END_OF_THE_DAY_SURVEY_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please fill out the End-of-day Survey every day between 11AM-2PM."
+          }
+        }
+      }
+    },
+    "END_OF_THE_DAY_SURVEY_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "End-of-day Survey"
+          }
+        }
+      }
+    },
+    "Exercise Time" : {
+
+    },
+    "Expired at %@" : {
+
+    },
+    "Expired notification" : {
+
+    },
+    "Expires in %@" : {
+
+    },
+    "FEATURES_AREA1_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The application will read data about your fitness from your Apple Watch."
+          }
+        }
+      }
+    },
+    "FEATURES_AREA1_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Connect to an Apple Watch"
+          }
+        }
+      }
+    },
+    "FEATURES_AREA2_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prisma's chatbot can help you set goals and maintain healthy habits."
+          }
+        }
+      }
+    },
+    "FEATURES_AREA2_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chat about Physical Activity"
+          }
+        }
+      }
+    },
+    "FEATURES_AREA3_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prisma can analyze your data for your and point out patterns that it finds."
+          }
+        }
+      }
+    },
+    "FEATURES_AREA3_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find Patterns in Your Data"
+          }
+        }
+      }
+    },
+    "FEATURES_BUTTON" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        }
+      }
+    },
+    "FEATURES_TITLE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prisma supports the following features"
+          }
+        }
+      }
+    },
+    "Flights Climbed" : {
+
+    },
+    "FLIGHTS_CLIMBED_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A flight of stairs is counted as approximately 10 feet (3 meters) of elevation gain (approximately 16 steps). "
+          }
+        }
+      }
+    },
+    "HEALTHKIT_PERMISSIONS_BUTTON" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow HealthKit Access"
+          }
+        }
+      }
+    },
+    "HEALTHKIT_PERMISSIONS_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This study will access data from your iPhone and Apple Watch to monitor your physical activity. Click the button below to grant or deny access to specific data sources."
+          }
+        }
+      }
+    },
+    "HEALTHKIT_PERMISSIONS_SUBTITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permission to read HealthKit Data."
+          }
+        }
+      }
+    },
+    "HEALTHKIT_PERMISSIONS_TITLE" : {
+      "comment" : "MARK: HealthKit",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HealthKit"
+          }
+        }
+      }
+    },
+    "Heart Rate" : {
+
+    },
+    "Heart Rate Variability" : {
+
+    },
+    "HEART_RATE_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your heart beats approximately 100,000 times per day, accelerating and slowing through periods of rest and exertion. Your heart rate refers to how many times your heart beats per minute and can be an indicator of your cardiovascular health. Health visualizes a history of the heart rate data collected by Apple Watch or a heart rate monitor so you can see your patterns and variability over time and with different activities."
+          }
+        }
+      }
+    },
+    "HEART_RATE_VARIABILITY_SDNN_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heart Rate Variability (HRV) is a measure of the variation in the time interval between heart beats. Apple Watch calculates HRV by using the standard deviation of beat-to-beat measurements which are captured by the heart rate sensor. HRV is validated for users over the age of 18. Thirty party apps and devices can also add HRV to Health. "
+          }
+        }
+      }
+    },
+    "Hide" : {
+
+    },
+    "Hide Data by Custom Range" : {
+
+    },
+    "Hide Timestamp" : {
+
+    },
+    "JAMES_LANDAY_BIO" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "James Landay is a Professor of Computer Science and the Anand Rajaraman and Venky Harinarayan Professor in the School of Engineering at Stanford University. He specializes in human-computer interaction. Landay is the co-founder and Vice-Director of the Stanford Institute for Human-centered Artificial Intelligence (HAI). Prior to joining Stanford, Landay was a Professor of Information Science at Cornell Tech in New York City for one year and a Professor of Computer Science & Engineering at the University of Washington for 10 years. Landay received his BS in EECS from UC Berkeley in 1990, and MS and PhD in Computer Science from Carnegie Mellon University in 1993 and 1996, respectively. His PhD dissertation was the first to demonstrate the use of sketching in user interface design tools."
+          }
+        }
+      }
+    },
+    "LICENSE_INFO_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "License Information"
+          }
+        }
+      }
+    },
+    "Loading Chat View" : {
+
+    },
+    "Manage Data" : {
+
+    },
+    "MATTHEW_JOERKE_BIO" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matthew is a fourth year PhD student at Stanford University, where he is co-advised by Prof. Emma Brunskill and Prof. James Landay. His research is at the intersection of human-computer interaction and machine learning, with an emphasis on studying and designing technology to promote wellbeing."
+          }
+        }
+      }
+    },
+    "MID_DAY_SURVEY_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please fill out the Mid-day Survey every day between 11AM-2PM."
+          }
+        }
+      }
+    },
+    "MID_DAY_SURVEY_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mid-day Survey"
+          }
+        }
+      }
+    },
+    "MORNING_SURVEY_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please fill out the Morning Survey every day between 8-11AM."
+          }
+        }
+      }
+    },
+    "MORNING_SURVEY_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Morning Survey"
+          }
+        }
+      }
+    },
+    "Move Time" : {
+
+    },
+    "NO_SURVEYS_MESSAGE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Currently there are no surveys available, you will be notified about upcoming surveys."
+          }
+        }
+      }
+    },
+    "NOTIFICATION_PERMISSIONS_BUTTON" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next"
+          }
+        }
+      }
+    },
+    "NOTIFICATION_PERMISSIONS_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This study will periodically send you notifications to complete surveys at random times throughout the day."
+          }
+        }
+      }
+    },
+    "NOTIFICATION_PERMISSIONS_SUBTITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permission to send notifications."
+          }
+        }
+      }
+    },
+    "NOTIFICATION_PERMISSIONS_TITLE" : {
+      "comment" : "MARK: Notifications",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications"
+          }
+        }
+      }
+    },
+    "Oxygen Saturation" : {
+
+    },
+    "OXYGEN_SATURATION_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blood oxygen is a measure of the amount of oxygen in the protein (hemoglobin) in your red blood cells. To function properly, your body needs a certain level of oxygen circulating in the blood. Your red blood cells are loaded (saturated) with oxygen in the lungs and carry it throughout your body."
+          }
+        }
+      }
+    },
+    "PRISMA" : {
+
+    },
+    "PRIVACY_CONTROLS_TITLE" : {
+      "comment" : "MARK: - Privacy Controls",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy Controls"
+          }
+        }
+      }
+    },
+    "PROJECT_LICENSE_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This project is licensed under the MIT License."
+          }
+        }
+      }
+    },
+    "Repository Link" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Repository Link"
+          }
+        }
+      }
+    },
+    "Respiratory Rate" : {
+
+    },
+    "RESPIRATORY_RATE_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Also commonly called respiration rate or breathing rate, this refers to the number of times you breathe in a minute. When you inhale, your lungs fill with air and oxygen is added to your blood stream while carbon dioxide is removed from your blood. The carbon dioxide is then released from your lungs as you exhale. Your respiratory rate can increase when your body needs more oxygen, such as when you're exercising. It can also decrease when you need less-during sleep for example."
+          }
+        }
+      }
+    },
+    "Resting Energy Burned" : {
+
+    },
+    "Resting Heart Rate" : {
+
+    },
+    "RESTING_HEART_RATE_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A quantity sample type that measures the user’s resting heart rate."
+          }
+        }
+      }
+    },
+    "SCHEDULE_LIST_TITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schedule"
+          }
+        }
+      }
+    },
+    "SCHEDULE_TAB_TITLE" : {
+      "comment" : "MARK: - Schedule",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schedule"
+          }
+        }
+      }
+    },
+    "Scheduled at %@" : {
+
+    },
+    "Scheduled between %@ and %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Scheduled between %1$@ and %2$@"
+          }
+        }
+      }
+    },
+    "Show Timestamp" : {
+
+    },
+    "Sleep Analysis" : {
+
+    },
+    "SLEEP_ANALYSIS_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sleep provides insight into your sleep habits. Sleep trackers and monitors can help you determine the amount of time you are in bed and asleep. These devices estimate your time in bed and your time asleep by analyzing changes in physical activity, including movement during the night. You can also keep track of your sleep by entering your own estimation of your bed time and sleep time manually. The \"In Bed\" period reflects the time period you are lying in bed with the intention to sleep. For most people it starts when you turn the lights off and it ends when you get out of bed. The \"Asleep\" period reflects the period (s) you are asleep."
+          }
+        }
+      }
+    },
+    "Stand Time" : {
+
+    },
+    "Start date" : {
+
+    },
+    "Step Count" : {
+
+    },
+    "STEP_COUNT_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Step count is the number of steps you take throughout the day. Pedometers and digital activity trackers can help you determine your step count. These devices count steps for any activity that involves step-like movement, including walking, running, stair-climbing, cross-country skiing, and even movement as you go about your daily chores."
+          }
+        }
+      }
+    },
+    "TASK_CONTEXT_ACTION_QUESTIONNAIRE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start Questionnaire"
+          }
+        }
+      }
+    },
+    "TASK_CONTEXT_ACTION_TEST" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start Test"
+          }
+        }
+      }
+    },
+    "Unknown HealthKit Type" : {
+
+    },
+    "Upcoming notification" : {
+
+    },
+    "Walking Heart Rate Average" : {
+
+    },
+    "WALKING_HEART_RATE_AVERAGE_DESCRIPTION" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your walking heart rate is the average heart beats per minute measured by your Apple Watch during walks at a steady pace throughout the day.\nLike resting heart rate, a lower walking heart rate may indicate better heart health and cardiovascular fitness. Walking regularly has many health benefits, and you may see your walking heart rate lower over time by staying active, managing your weight, and reducing everyday stress."
+          }
+        }
+      }
+    },
+    "WELCOME_BUTTON" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Learn More"
+          }
+        }
+      }
+    },
+    "WELCOME_SUBTITLE" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This application supports a research study at Stanford University about physical activity promotion. Press the button below to learn more about this application's features."
+          }
+        }
+      }
+    },
+    "Welcome!" : {
+
+    },
+    "Workout" : {
+
+    },
+    "WORKOUT_DESCRIPTION" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A type that identifies samples that store information about a workout."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
